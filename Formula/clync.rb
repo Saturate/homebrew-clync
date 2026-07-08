@@ -1,7 +1,6 @@
 class Clync < Formula
   desc "Encrypted sync for Claude Code across machines"
   homepage "https://github.com/Saturate/clync"
-  version "0.4.0"
   license "MIT"
 
   on_macos do
